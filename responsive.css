@@ -1,0 +1,328 @@
+@media(max-width: 1300px){
+    .tarjetas{
+        width: 300px;
+        height: 150px;
+    }
+    #bio{
+        width: 300px;
+        height: 300px;
+    }
+    #biotex {
+        margin-right: 150px;
+        margin-top: 100px;
+        font-size: 14px;
+    }
+    .img{
+        height: 200px;
+    }
+    .tarjetas{
+        overflow:visible;
+    }
+    #contenido{
+        height: 300px;
+    }
+}
+
+@media(max-width: 1210px){
+    .tarjetas{
+        width: 281px;
+        height: 150px;
+    }
+    #bio{
+        width: 200px;
+        height: 300px;
+    }
+    #biotex {
+        margin-right: 150px;
+        margin-top: 100px;
+        font-size: 12px;
+    }
+    .img{
+        width: 300px;
+        height: 200px;
+    }
+    .texto-adentro {
+        left: 270px;
+    }
+
+}
+@media(max-width: 1085px){
+
+    #fondo {
+        width: 90%;
+      }
+    .tarjetas{
+        width: 240px;
+        height: 150px;
+    }
+    .img{
+        width: 250px;
+        height: 180px;
+    }
+    .texto-adentro {
+        left: 270px;
+    }
+    h3{
+        font-size: 30px;
+        margin-top: 30px;
+    }
+    .boton {
+        width: 66px;
+        height: 25px;
+        margin-top: 18px;
+    }
+}
+
+@media(max-width: 1000px){
+    #bio{
+        height: 250px;
+    }
+    #biotex {
+        font-family: none;
+    }
+    .tarjetas{
+        width: 210px;
+        height: 150px;
+    }
+    .img{
+        width: 250px;
+        height: 180px;
+    }
+    .texto-adentro {
+        left: 190px;
+    }
+    h3{
+        font-size: 30px;
+        margin-top: 30px;
+    }
+    .boton {
+        width: 66px;
+        height: 25px;
+        margin-top: 18px;
+    }
+    
+}
+
+
+@media(max-width: 940px){
+    bio{
+        margin-left: 40px;
+        width: 170px;
+        height: 230px;
+    }
+    #biotex {
+        margin-right: 80px;
+        margin-top: 80px;
+        font-size: 12px;
+    }
+    .tarjetas {
+        width: 180px;
+        height: 150px;
+        margin: 0px 50px 0 30px;
+    }
+    .parrafo{
+        font-family: none;
+    }
+}
+
+@media(max-width: 868px){
+    .img {
+        width: 200px;
+        height: 180px;
+    }
+    .tarjetas {
+        width: 169px;
+        height: 150px;
+        margin: 0px 53px 0 32px;
+    }
+    #biotex {
+        margin-right: 30px;
+        font-size: 12px;
+    }
+    .texto-adentro {
+        left: 116px;
+    }
+}
+
+
+@media(max-width: 868px){
+    #bio {
+        width: 140px;
+        margin-left: 44px;
+    }
+    #biotex {
+        margin-right: 57px;
+        font-size: 12px;
+    }
+    #contenido{
+        height: 256px;
+        padding-top: 54px;
+        padding-left: 15px;
+    }
+}
+
+@media(max-width: 765px){
+    #bio {
+        width: 140px;
+        margin-left: 44px;
+    }
+    .tarjetas {
+        width: 150px;
+        height: 150px;
+        margin: 0px 53px 0 32px;
+    }
+    #biotex {
+        margin-right: 17px;
+
+    }
+    .texto-adentro {
+        left: 144px;
+    }
+    h2{
+        font-size: 38px;
+    }
+    #texcar{
+        font-size: 12px;
+        margin-top: 10px;
+    }
+}
+
+@media(max-width: 725px){
+    .img {
+        width: 162px;
+        height: 164px;
+    }
+    #fondo {
+        width: 80%;
+    }
+    .tarjetas {
+        width: 143px;
+        height: 152px;
+        margin: 0px 47px 0 32px;
+    }
+    #bio {
+        width: 113px;
+        margin-left: 18px;
+    }
+    #biotex {
+        margin-right: 0px;
+    }
+}
+
+@media(max-width: 665px){
+    .tarjetas {
+        width: 113px;
+    }
+    #contenido {
+        height: 256px;
+        padding-top: 37px;
+        padding-left: 25px;
+    }
+    .texto-adentro {
+        left: 100px;
+        top: 100px;
+    }
+    #bio {
+        width: 100px;
+        margin-left: 7px;
+    
+    }
+    #biotex {
+        margin-right: 0px;
+        font-size: 11px;
+        line-height: 2.5;
+      }
+}
+
+@media(max-width: 625px){
+    .logo{
+        float: none;
+        margin: 0px auto;
+        text-align: center;
+    }
+    h1{
+        float: none;
+    }
+    .barra{
+        height: 250px;
+        background-color: #1C2833;
+    }
+    .navar {
+        float: none;
+        margin-top: 15px;
+        margin-right: 0px;
+        text-align: center;
+        line-height: 2;
+    }
+    .navar ul li{
+        float: none;
+    }
+    * {
+        margin: 0px;
+        padding: 0;
+    }
+    #fondo{
+        width: 100%;
+    }
+    .texto-adentro {
+        left: 64px;
+        top: 100px;
+    }
+    h2 {
+        font-size: 25px;
+    }
+    .tarjetas{
+        float: none;
+        height: 267px;
+        margin: 0px 76px 0 131px;
+    }
+    #biotex{
+        float: none;
+        margin-top: 0px;
+        text-align: center;
+        font-size: 12px;
+    }
+    .img {
+        width: 350px;
+        height: 164px;
+    }
+    #contenido{
+        padding-left: 0;
+        height: 830px;
+    }
+    #biografia{
+        text-align: center;
+        height: 498px;
+    }
+    #bio{
+        width: 250px;
+        height: 200px;
+        margin-top: 35px
+    }
+    
+
+
+}
+
+
+
+@media(max-width: 542px){
+    .texto-adentro {
+        left: 0px;
+        top: 59px;
+    }
+    .tarjetas{
+        margin: 0px 0px 0px 35px;
+    }
+    #biotex{
+        font-size: 14px;
+        text-align: justify;
+        line-height: 1.7;
+    }
+    #biografia{
+        height: 586px;
+    }
+    #bio{
+        margin-top: 20px;
+    }
+}
